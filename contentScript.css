@@ -1,0 +1,21 @@
+.bg-gray-900 {
+    width: 250px;
+    background-color: whitesmoke;
+  }
+
+.flex .h-full .w-full .flex-col .p-2{
+    background-color: whitesmoke;
+
+}
+.dark{
+    background-color: #f8f9fa;
+}
+body {
+    margin-left: 13%;
+    width: 71%;
+    background-color: #f6f6f6;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;   
+    line-height: 1.42857143;
+    color: #333;
+}
